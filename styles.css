@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 #yellow{
 	background:yellow;
-     border-width:1px ;
-	border-color:green;
+     border:1px solid green ;
+/* 	border-color:green; */
 /* 	border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
@@ -10,8 +10,8 @@
 }
 #red{
 	background:red;
-     border-widht:1px;
-	border-color:black;
+     border:1px solid black;
+/* 	border-color:black; */
 /* 	border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
@@ -21,8 +21,8 @@
 
 #green{
 	background:green;
-     border-widht:1px;
-	border-color:yellow;
+     border:1px solid yellow;
+/* 	border-color:yellow; */
 /* border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
